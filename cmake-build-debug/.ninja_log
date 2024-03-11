@@ -1,0 +1,10 @@
+# ninja log v5
+24	7314	7318607128784880	build.ninja	754840698404bc73
+0	1817	7318607147097513	CMakeFiles/EssentialCpp.dir/main.cpp.obj	6fdead7a69d3b807
+1819	2320	7318607152104822	EssentialCpp.exe	648a74dd458385b5
+2	353	7318610107058483	CMakeFiles/EssentialCpp.dir/main.cpp.obj	6fdead7a69d3b807
+353	444	7318610107946392	EssentialCpp.exe	648a74dd458385b5
+2	360	7318612539345151	CMakeFiles/EssentialCpp.dir/main.cpp.obj	6fdead7a69d3b807
+361	453	7318612540242753	EssentialCpp.exe	648a74dd458385b5
+2	355	7318612668856311	CMakeFiles/EssentialCpp.dir/main.cpp.obj	6fdead7a69d3b807
+355	444	7318612669724271	EssentialCpp.exe	648a74dd458385b5

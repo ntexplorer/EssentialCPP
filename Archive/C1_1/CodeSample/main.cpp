@@ -4,15 +4,12 @@
 using namespace std;
 
 int main() {
-    string first_name;
-    string last_name;
+    string user_name;
     cout << "Please enter your first name:";
-    cin >> first_name;
-    cout << "Please enter your last name:";
-    cin >> last_name;
+    cin >> user_name;
     cout << '\n'
          << "Hello, "
-         << first_name + " " + last_name
+         << user_name
          << "... and goodbye!";
     return 0;
 }
